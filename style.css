@@ -1,0 +1,10 @@
+
+body, html {
+    background:rgb(105, 200, 232);
+    background-image: linear-gradient(to right, rgb(105, 200, 232), rgb(192, 215, 222));
+    font-family: monospace;
+    
+}
+label, body {
+    text-align: center;
+}
